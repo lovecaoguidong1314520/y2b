@@ -2,9 +2,9 @@
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyBu2rJUMH5B7gZwYLIIK7x2itNh8DVLlyo');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'huluxia36');
-define('TITLENAME', 'huluxia36');
-define('EN2DEKEY', '36huluxia3636');
+define('SITE_NAME', '葫芦侠3楼__你们最爱的东哥哥');
+define('TITLENAME', '葫芦侠3楼__你们最爱的东哥哥');
+define('EN2DEKEY', 'QQQWWWEEE3636363636huluxia3636');
 define('EMAIL', '1063464977@qq.com');
 define('NAME', 'huluxia36');
 define('PASSWORD', 'huluxiadg');
